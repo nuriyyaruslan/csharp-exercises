@@ -1,0 +1,11 @@
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1\string1\bin\Debug\string1.exe.config
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1\string1\bin\Debug\string1.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1\string1\bin\Debug\string1.pdb
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1\string1\obj\Debug\string1.Form1.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1\string1\obj\Debug\string1.Properties.Resources.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1\string1\obj\Debug\string1.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1\string1\obj\Debug\string1.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1\string1\obj\Debug\string1.pdb
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string1\string1\bin\Debug\string1.exe.config
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string1\string1\obj\Debug\string1.exe
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string1\string1\obj\Debug\string1.pdb

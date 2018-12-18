@@ -1,0 +1,9 @@
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1Misal1\string1Misal1\bin\Debug\string1Misal1.exe.config
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1Misal1\string1Misal1\bin\Debug\string1Misal1.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1Misal1\string1Misal1\bin\Debug\string1Misal1.pdb
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1Misal1\string1Misal1\obj\Debug\string1Misal1.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1Misal1\string1Misal1\obj\Debug\string1Misal1.Form1.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1Misal1\string1Misal1\obj\Debug\string1Misal1.Properties.Resources.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1Misal1\string1Misal1\obj\Debug\string1Misal1.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1Misal1\string1Misal1\obj\Debug\string1Misal1.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1Misal1\string1Misal1\obj\Debug\string1Misal1.pdb

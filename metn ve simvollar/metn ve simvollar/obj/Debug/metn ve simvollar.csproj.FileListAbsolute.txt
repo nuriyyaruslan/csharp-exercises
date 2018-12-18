@@ -1,0 +1,18 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\metn ve simvollar\metn ve simvollar\bin\Debug\metn ve simvollar.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\metn ve simvollar\metn ve simvollar\bin\Debug\metn ve simvollar.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\metn ve simvollar\metn ve simvollar\bin\Debug\metn ve simvollar.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn ve simvollar.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn_ve_simvollar.Form1.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn_ve_simvollar.Properties.Resources.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn ve simvollar.csproj.GenerateResource.Cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn ve simvollar.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn ve simvollar.pdb
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\metn ve simvollar\metn ve simvollar\bin\Debug\metn ve simvollar.exe.config
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn ve simvollar.exe
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn ve simvollar.pdb
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\metn ve simvollar\metn ve simvollar\bin\Debug\metn ve simvollar.exe
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\metn ve simvollar\metn ve simvollar\bin\Debug\metn ve simvollar.pdb
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn ve simvollar.csprojResolveAssemblyReference.cache
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn_ve_simvollar.Form1.resources
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn_ve_simvollar.Properties.Resources.resources
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\metn ve simvollar\metn ve simvollar\obj\Debug\metn ve simvollar.csproj.GenerateResource.Cache

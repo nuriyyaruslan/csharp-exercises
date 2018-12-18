@@ -1,0 +1,9 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\string1 14cu misal\string1 14cu misal\bin\Debug\string1 14cu misal.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\string1 14cu misal\string1 14cu misal\bin\Debug\string1 14cu misal.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\string1 14cu misal\string1 14cu misal\bin\Debug\string1 14cu misal.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\string1 14cu misal\string1 14cu misal\obj\Debug\string1 14cu misal.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\string1 14cu misal\string1 14cu misal\obj\Debug\string1_14cu_misal.Form1.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\string1 14cu misal\string1 14cu misal\obj\Debug\string1_14cu_misal.Properties.Resources.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\string1 14cu misal\string1 14cu misal\obj\Debug\string1 14cu misal.csproj.GenerateResource.Cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\string1 14cu misal\string1 14cu misal\obj\Debug\string1 14cu misal.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\string1 14cu misal\string1 14cu misal\obj\Debug\string1 14cu misal.pdb

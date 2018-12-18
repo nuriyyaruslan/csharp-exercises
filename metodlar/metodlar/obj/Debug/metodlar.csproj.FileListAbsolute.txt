@@ -1,0 +1,2 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\metodlar\metodlar\bin\Debug\metodlar.exe.config
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\metodlar\metodlar\bin\Debug\metodlar.exe.config

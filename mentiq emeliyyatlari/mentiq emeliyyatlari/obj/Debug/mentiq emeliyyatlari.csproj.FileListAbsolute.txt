@@ -1,0 +1,12 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\mentiq emeliyyatlari\mentiq emeliyyatlari\bin\Debug\mentiq emeliyyatlari.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\mentiq emeliyyatlari\mentiq emeliyyatlari\bin\Debug\mentiq emeliyyatlari.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\mentiq emeliyyatlari\mentiq emeliyyatlari\bin\Debug\mentiq emeliyyatlari.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\mentiq emeliyyatlari\mentiq emeliyyatlari\obj\Debug\mentiq emeliyyatlari.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\mentiq emeliyyatlari\mentiq emeliyyatlari\obj\Debug\mentiq_emeliyyatlari.Form1.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\mentiq emeliyyatlari\mentiq emeliyyatlari\obj\Debug\mentiq_emeliyyatlari.Properties.Resources.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\mentiq emeliyyatlari\mentiq emeliyyatlari\obj\Debug\mentiq emeliyyatlari.csproj.GenerateResource.Cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\mentiq emeliyyatlari\mentiq emeliyyatlari\obj\Debug\mentiq emeliyyatlari.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\mentiq emeliyyatlari\mentiq emeliyyatlari\obj\Debug\mentiq emeliyyatlari.pdb
+E:\My_World\CSharp\My Projects\2.Exercises\mentiq emeliyyatlari\mentiq emeliyyatlari\bin\Debug\mentiq emeliyyatlari.exe.config
+E:\My_World\CSharp\My Projects\2.Exercises\mentiq emeliyyatlari\mentiq emeliyyatlari\obj\Debug\mentiq emeliyyatlari.exe
+E:\My_World\CSharp\My Projects\2.Exercises\mentiq emeliyyatlari\mentiq emeliyyatlari\obj\Debug\mentiq emeliyyatlari.pdb

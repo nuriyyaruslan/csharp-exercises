@@ -1,0 +1,6 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\list4\list4\bin\Debug\list4.exe.config
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\list4\list4\bin\Debug\list4.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\list4\list4\bin\Debug\list4.pdb
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\list4\list4\obj\Debug\list4.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\list4\list4\obj\Debug\list4.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\list4\list4\obj\Debug\list4.pdb

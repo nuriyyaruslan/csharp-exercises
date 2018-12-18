@@ -1,0 +1,6 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\Massiv artan sira\Massiv artan sira\bin\Debug\Massiv artan sira.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\Massiv artan sira\Massiv artan sira\bin\Debug\Massiv artan sira.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\Massiv artan sira\Massiv artan sira\bin\Debug\Massiv artan sira.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\Massiv artan sira\Massiv artan sira\obj\Debug\Massiv artan sira.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\Massiv artan sira\Massiv artan sira\obj\Debug\Massiv artan sira.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\Massiv artan sira\Massiv artan sira\obj\Debug\Massiv artan sira.pdb

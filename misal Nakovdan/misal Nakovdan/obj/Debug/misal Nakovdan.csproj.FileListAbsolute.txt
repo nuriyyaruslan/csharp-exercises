@@ -1,0 +1,6 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\misal Nakovdan\misal Nakovdan\bin\Debug\misal Nakovdan.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\misal Nakovdan\misal Nakovdan\bin\Debug\misal Nakovdan.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\misal Nakovdan\misal Nakovdan\bin\Debug\misal Nakovdan.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\misal Nakovdan\misal Nakovdan\obj\Debug\misal Nakovdan.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\misal Nakovdan\misal Nakovdan\obj\Debug\misal Nakovdan.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\misal Nakovdan\misal Nakovdan\obj\Debug\misal Nakovdan.pdb

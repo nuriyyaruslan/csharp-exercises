@@ -1,0 +1,12 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\birOlculuMassivler\birOlculuMassivler\bin\Debug\birOlculuMassivler.exe.config
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\birOlculuMassivler\birOlculuMassivler\bin\Debug\birOlculuMassivler.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\birOlculuMassivler\birOlculuMassivler\bin\Debug\birOlculuMassivler.pdb
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\birOlculuMassivler\birOlculuMassivler\obj\Debug\birOlculuMassivler.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\birOlculuMassivler\birOlculuMassivler\obj\Debug\birOlculuMassivler.Form1.resources
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\birOlculuMassivler\birOlculuMassivler\obj\Debug\birOlculuMassivler.Properties.Resources.resources
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\birOlculuMassivler\birOlculuMassivler\obj\Debug\birOlculuMassivler.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\birOlculuMassivler\birOlculuMassivler\obj\Debug\birOlculuMassivler.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\birOlculuMassivler\birOlculuMassivler\obj\Debug\birOlculuMassivler.pdb
+E:\My_World\CSharp\My Projects\2.EXERCISES\birOlculuMassivler\birOlculuMassivler\bin\Debug\birOlculuMassivler.exe.config
+E:\My_World\CSharp\My Projects\2.EXERCISES\birOlculuMassivler\birOlculuMassivler\obj\Debug\birOlculuMassivler.exe
+E:\My_World\CSharp\My Projects\2.EXERCISES\birOlculuMassivler\birOlculuMassivler\obj\Debug\birOlculuMassivler.pdb

@@ -1,0 +1,6 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\Consoleda list1\Consoleda list1\bin\Debug\Consoleda list1.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\Consoleda list1\Consoleda list1\bin\Debug\Consoleda list1.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\Consoleda list1\Consoleda list1\bin\Debug\Consoleda list1.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\Consoleda list1\Consoleda list1\obj\Debug\Consoleda list1.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\Consoleda list1\Consoleda list1\obj\Debug\Consoleda list1.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\Consoleda list1\Consoleda list1\obj\Debug\Consoleda list1.pdb

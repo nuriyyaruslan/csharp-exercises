@@ -1,0 +1,5 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\14.metod\14.metod\bin\Debug\14.metod.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\14.metod\14.metod\bin\Debug\14.metod.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\14.metod\14.metod\bin\Debug\14.metod.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\14.metod\14.metod\obj\Debug\14.metod.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\14.metod\14.metod\obj\Debug\14.metod.pdb

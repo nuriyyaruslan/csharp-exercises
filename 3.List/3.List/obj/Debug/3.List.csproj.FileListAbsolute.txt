@@ -1,0 +1,6 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\3.List\3.List\bin\Debug\3.List.exe.config
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\3.List\3.List\bin\Debug\3.List.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\3.List\3.List\bin\Debug\3.List.pdb
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\3.List\3.List\obj\Debug\3.List.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\3.List\3.List\obj\Debug\3.List.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\3.List\3.List\obj\Debug\3.List.pdb

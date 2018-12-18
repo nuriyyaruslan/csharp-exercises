@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree View Controlu", "Tree View Controlu\Tree View Controlu.csproj", "{287B04B5-F165-4171-9D4F-0C3240C73CA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{287B04B5-F165-4171-9D4F-0C3240C73CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287B04B5-F165-4171-9D4F-0C3240C73CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287B04B5-F165-4171-9D4F-0C3240C73CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287B04B5-F165-4171-9D4F-0C3240C73CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

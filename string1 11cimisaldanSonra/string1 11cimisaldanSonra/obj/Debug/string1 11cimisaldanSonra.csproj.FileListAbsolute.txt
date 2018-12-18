@@ -1,0 +1,9 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\string1 11cimisaldanSonra\string1 11cimisaldanSonra\bin\Debug\string1 11cimisaldanSonra.exe.config
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1 11cimisaldanSonra\string1 11cimisaldanSonra\bin\Debug\string1 11cimisaldanSonra.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1 11cimisaldanSonra\string1 11cimisaldanSonra\bin\Debug\string1 11cimisaldanSonra.pdb
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1 11cimisaldanSonra\string1 11cimisaldanSonra\obj\Debug\string1 11cimisaldanSonra.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1 11cimisaldanSonra\string1 11cimisaldanSonra\obj\Debug\string1_11cimisaldanSonra.Form1.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1 11cimisaldanSonra\string1 11cimisaldanSonra\obj\Debug\string1_11cimisaldanSonra.Properties.Resources.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1 11cimisaldanSonra\string1 11cimisaldanSonra\obj\Debug\string1 11cimisaldanSonra.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1 11cimisaldanSonra\string1 11cimisaldanSonra\obj\Debug\string1 11cimisaldanSonra.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\string1 11cimisaldanSonra\string1 11cimisaldanSonra\obj\Debug\string1 11cimisaldanSonra.pdb

@@ -1,0 +1,6 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\metodlar Consolde davam\metodlar Consolde davam\bin\Debug\metodlar Consolde davam.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\metodlar Consolde davam\metodlar Consolde davam\bin\Debug\metodlar Consolde davam.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\metodlar Consolde davam\metodlar Consolde davam\bin\Debug\metodlar Consolde davam.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\metodlar Consolde davam\metodlar Consolde davam\obj\Debug\metodlar Consolde davam.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\metodlar Consolde davam\metodlar Consolde davam\obj\Debug\metodlar Consolde davam.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\metodlar Consolde davam\metodlar Consolde davam\obj\Debug\metodlar Consolde davam.pdb

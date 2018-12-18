@@ -1,0 +1,9 @@
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\10luq say sisteminden 2 liye cevirme\10luq say sisteminden 2 liye cevirme\bin\Debug\10luq say sisteminden 2 liye cevirme.exe.config
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\10luq say sisteminden 2 liye cevirme\10luq say sisteminden 2 liye cevirme\bin\Debug\10luq say sisteminden 2 liye cevirme.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\10luq say sisteminden 2 liye cevirme\10luq say sisteminden 2 liye cevirme\bin\Debug\10luq say sisteminden 2 liye cevirme.pdb
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\10luq say sisteminden 2 liye cevirme\10luq say sisteminden 2 liye cevirme\obj\Debug\10luq say sisteminden 2 liye cevirme.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\10luq say sisteminden 2 liye cevirme\10luq say sisteminden 2 liye cevirme\obj\Debug\_10luq_say_sisteminden_2_liye_cevirme.Form1.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\10luq say sisteminden 2 liye cevirme\10luq say sisteminden 2 liye cevirme\obj\Debug\_10luq_say_sisteminden_2_liye_cevirme.Properties.Resources.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\10luq say sisteminden 2 liye cevirme\10luq say sisteminden 2 liye cevirme\obj\Debug\10luq say sisteminden 2 liye cevirme.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\10luq say sisteminden 2 liye cevirme\10luq say sisteminden 2 liye cevirme\obj\Debug\10luq say sisteminden 2 liye cevirme.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\10luq say sisteminden 2 liye cevirme\10luq say sisteminden 2 liye cevirme\obj\Debug\10luq say sisteminden 2 liye cevirme.pdb

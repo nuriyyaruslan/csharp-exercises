@@ -1,0 +1,9 @@
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist second\Arraylist second\bin\Debug\Arraylist second.exe.config
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist second\Arraylist second\bin\Debug\Arraylist second.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist second\Arraylist second\bin\Debug\Arraylist second.pdb
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist second\Arraylist second\obj\Debug\Arraylist second.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist second\Arraylist second\obj\Debug\Arraylist_second.Form1.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist second\Arraylist second\obj\Debug\Arraylist_second.Properties.Resources.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist second\Arraylist second\obj\Debug\Arraylist second.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist second\Arraylist second\obj\Debug\Arraylist second.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist second\Arraylist second\obj\Debug\Arraylist second.pdb

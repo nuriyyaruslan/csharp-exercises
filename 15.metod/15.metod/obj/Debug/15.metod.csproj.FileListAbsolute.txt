@@ -1,0 +1,6 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\15.metod\15.metod\bin\Debug\15.metod.exe.config
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\15.metod\15.metod\bin\Debug\15.metod.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\15.metod\15.metod\bin\Debug\15.metod.pdb
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\15.metod\15.metod\obj\Debug\15.metod.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\15.metod\15.metod\obj\Debug\15.metod.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\15.metod\15.metod\obj\Debug\15.metod.pdb

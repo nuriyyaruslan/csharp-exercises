@@ -1,0 +1,6 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\list8\list8\bin\Debug\list8.exe.config
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\list8\list8\bin\Debug\list8.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\list8\list8\bin\Debug\list8.pdb
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\list8\list8\obj\Debug\list8.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\list8\list8\obj\Debug\list8.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\list8\list8\obj\Debug\list8.pdb

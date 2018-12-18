@@ -1,0 +1,9 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\string 1 misal 15\string 1 misal 15\bin\Debug\string 1 misal 15.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\string 1 misal 15\string 1 misal 15\bin\Debug\string 1 misal 15.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\string 1 misal 15\string 1 misal 15\bin\Debug\string 1 misal 15.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\string 1 misal 15\string 1 misal 15\obj\Debug\string 1 misal 15.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\string 1 misal 15\string 1 misal 15\obj\Debug\string_1_misal_15.Form1.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\string 1 misal 15\string 1 misal 15\obj\Debug\string_1_misal_15.Properties.Resources.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\string 1 misal 15\string 1 misal 15\obj\Debug\string 1 misal 15.csproj.GenerateResource.Cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\string 1 misal 15\string 1 misal 15\obj\Debug\string 1 misal 15.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\string 1 misal 15\string 1 misal 15\obj\Debug\string 1 misal 15.pdb

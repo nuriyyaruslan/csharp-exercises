@@ -1,0 +1,6 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\list6\list6\bin\Debug\list6.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\list6\list6\bin\Debug\list6.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\list6\list6\bin\Debug\list6.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\list6\list6\obj\Debug\list6.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\list6\list6\obj\Debug\list6.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\list6\list6\obj\Debug\list6.pdb

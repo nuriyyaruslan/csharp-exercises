@@ -1,0 +1,6 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\list7\list7\bin\Debug\list7.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\list7\list7\bin\Debug\list7.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\list7\list7\bin\Debug\list7.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\list7\list7\obj\Debug\list7.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\list7\list7\obj\Debug\list7.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\list7\list7\obj\Debug\list7.pdb

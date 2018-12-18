@@ -1,0 +1,9 @@
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist\Arraylist\bin\Debug\Arraylist.exe.config
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist\Arraylist\bin\Debug\Arraylist.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist\Arraylist\bin\Debug\Arraylist.pdb
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist\Arraylist\obj\Debug\Arraylist.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist\Arraylist\obj\Debug\Arraylist.Form1.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist\Arraylist\obj\Debug\Arraylist.Properties.Resources.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist\Arraylist\obj\Debug\Arraylist.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist\Arraylist\obj\Debug\Arraylist.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Arraylist\Arraylist\obj\Debug\Arraylist.pdb

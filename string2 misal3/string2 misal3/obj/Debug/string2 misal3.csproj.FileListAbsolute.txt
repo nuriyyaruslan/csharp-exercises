@@ -1,0 +1,18 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal3\string2 misal3\bin\Debug\string2 misal3.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal3\string2 misal3\bin\Debug\string2 misal3.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal3\string2 misal3\bin\Debug\string2 misal3.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal3\string2 misal3\obj\Debug\string2 misal3.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal3\string2 misal3\obj\Debug\string2_misal3.Form1.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal3\string2 misal3\obj\Debug\string2_misal3.Properties.Resources.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal3\string2 misal3\obj\Debug\string2 misal3.csproj.GenerateResource.Cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal3\string2 misal3\obj\Debug\string2 misal3.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal3\string2 misal3\obj\Debug\string2 misal3.pdb
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal3\string2 misal3\bin\Debug\string2 misal3.exe.config
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal3\string2 misal3\obj\Debug\string2 misal3.exe
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal3\string2 misal3\obj\Debug\string2 misal3.pdb
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal3\string2 misal3\bin\Debug\string2 misal3.exe
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal3\string2 misal3\bin\Debug\string2 misal3.pdb
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal3\string2 misal3\obj\Debug\string2 misal3.csprojResolveAssemblyReference.cache
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal3\string2 misal3\obj\Debug\string2_misal3.Form1.resources
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal3\string2 misal3\obj\Debug\string2_misal3.Properties.Resources.resources
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal3\string2 misal3\obj\Debug\string2 misal3.csproj.GenerateResource.Cache

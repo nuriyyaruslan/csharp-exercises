@@ -1,0 +1,9 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\String2 misal2\String2 misal2\bin\Debug\String2 misal2.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\String2 misal2\String2 misal2\bin\Debug\String2 misal2.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\String2 misal2\String2 misal2\bin\Debug\String2 misal2.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\String2 misal2\String2 misal2\obj\Debug\String2 misal2.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\String2 misal2\String2 misal2\obj\Debug\String2_misal2.Form1.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\String2 misal2\String2 misal2\obj\Debug\String2_misal2.Properties.Resources.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\String2 misal2\String2 misal2\obj\Debug\String2 misal2.csproj.GenerateResource.Cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\String2 misal2\String2 misal2\obj\Debug\String2 misal2.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\String2 misal2\String2 misal2\obj\Debug\String2 misal2.pdb

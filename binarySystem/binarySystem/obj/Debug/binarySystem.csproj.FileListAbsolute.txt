@@ -1,0 +1,9 @@
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\binarySystem\binarySystem\bin\Debug\binarySystem.exe.config
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\binarySystem\binarySystem\bin\Debug\binarySystem.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\binarySystem\binarySystem\bin\Debug\binarySystem.pdb
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\binarySystem\binarySystem\obj\Debug\binarySystem.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\binarySystem\binarySystem\obj\Debug\binarySystem.Form1.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\binarySystem\binarySystem\obj\Debug\binarySystem.Properties.Resources.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\binarySystem\binarySystem\obj\Debug\binarySystem.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\binarySystem\binarySystem\obj\Debug\binarySystem.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\binarySystem\binarySystem\obj\Debug\binarySystem.pdb

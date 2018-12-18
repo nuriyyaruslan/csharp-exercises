@@ -1,0 +1,9 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal 15 consoleda\string2 misal 15 consoleda\bin\Debug\string2 misal 15 consoleda.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal 15 consoleda\string2 misal 15 consoleda\bin\Debug\string2 misal 15 consoleda.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal 15 consoleda\string2 misal 15 consoleda\bin\Debug\string2 misal 15 consoleda.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal 15 consoleda\string2 misal 15 consoleda\obj\Debug\string2 misal 15 consoleda.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal 15 consoleda\string2 misal 15 consoleda\obj\Debug\string2 misal 15 consoleda.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\string2 misal 15 consoleda\string2 misal 15 consoleda\obj\Debug\string2 misal 15 consoleda.pdb
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal 15 consoleda\string2 misal 15 consoleda\bin\Debug\string2 misal 15 consoleda.exe.config
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal 15 consoleda\string2 misal 15 consoleda\obj\Debug\string2 misal 15 consoleda.exe
+D:\My_World\CSharp\Visual Studio 2015 New\Projects\string2 misal 15 consoleda\string2 misal 15 consoleda\obj\Debug\string2 misal 15 consoleda.pdb

@@ -1,0 +1,9 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\Dovr1\Dovr1\bin\Debug\Dovr1.exe.config
+c:\users\nuriyya\documents\visual studio 2015\Projects\Dovr1\Dovr1\bin\Debug\Dovr1.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\Dovr1\Dovr1\bin\Debug\Dovr1.pdb
+c:\users\nuriyya\documents\visual studio 2015\Projects\Dovr1\Dovr1\obj\Debug\Dovr1.csprojResolveAssemblyReference.cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\Dovr1\Dovr1\obj\Debug\Dovr1.Form1.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\Dovr1\Dovr1\obj\Debug\Dovr1.Properties.Resources.resources
+c:\users\nuriyya\documents\visual studio 2015\Projects\Dovr1\Dovr1\obj\Debug\Dovr1.csproj.GenerateResource.Cache
+c:\users\nuriyya\documents\visual studio 2015\Projects\Dovr1\Dovr1\obj\Debug\Dovr1.exe
+c:\users\nuriyya\documents\visual studio 2015\Projects\Dovr1\Dovr1\obj\Debug\Dovr1.pdb

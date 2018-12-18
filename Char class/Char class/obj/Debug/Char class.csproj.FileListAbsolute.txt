@@ -1,0 +1,9 @@
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Char class\Char class\bin\Debug\Char class.exe.config
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Char class\Char class\bin\Debug\Char class.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Char class\Char class\bin\Debug\Char class.pdb
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Char class\Char class\obj\Debug\Char class.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Char class\Char class\obj\Debug\Char_class.Form1.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Char class\Char class\obj\Debug\Char_class.Properties.Resources.resources
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Char class\Char class\obj\Debug\Char class.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Char class\Char class\obj\Debug\Char class.exe
+C:\Users\Nuriyya\Documents\Visual Studio 2015\Projects\Char class\Char class\obj\Debug\Char class.pdb

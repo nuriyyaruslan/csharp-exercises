@@ -1,0 +1,9 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\2olculu massiv\2olculu massiv\bin\Debug\2olculu massiv.exe.config
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\2olculu massiv\2olculu massiv\bin\Debug\2olculu massiv.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\2olculu massiv\2olculu massiv\bin\Debug\2olculu massiv.pdb
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\2olculu massiv\2olculu massiv\obj\Debug\2olculu massiv.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\2olculu massiv\2olculu massiv\obj\Debug\_2olculu_massiv.Form1.resources
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\2olculu massiv\2olculu massiv\obj\Debug\_2olculu_massiv.Properties.Resources.resources
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\2olculu massiv\2olculu massiv\obj\Debug\2olculu massiv.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\2olculu massiv\2olculu massiv\obj\Debug\2olculu massiv.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\2olculu massiv\2olculu massiv\obj\Debug\2olculu massiv.pdb
